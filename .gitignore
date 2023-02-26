@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+"/edu.papdav.learnSpringBoot/src/main/resources/application.properties" 
