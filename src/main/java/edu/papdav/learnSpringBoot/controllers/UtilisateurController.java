@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import edu.papdav.learnSpringBoo.requests.FirstNameAndLastNameRequest;
-import edu.papdav.learnSpringBoo.requests.TitreAndVilleRequest;
 import edu.papdav.learnSpringBoot.entities.Utilisateur;
+import edu.papdav.learnSpringBoot.requests.FirstNameAndLastNameRequest;
+import edu.papdav.learnSpringBoot.requests.TitreAndVilleRequest;
 import edu.papdav.learnSpringBoot.services.UtilisateurService;
 
 @RestController

@@ -1,4 +1,4 @@
-package edu.papdav.learnSpringBoo.requests;
+package edu.papdav.learnSpringBoot.requests;
 
 public class TitreAndVilleRequest {
 	private String titre;
